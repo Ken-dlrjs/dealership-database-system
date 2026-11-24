@@ -1,0 +1,8 @@
+bin/
+*.class
+lib/*.jar
+*.docx
+*.hwp
+.metadata/
+.DS_Store
+Thumbs.db
