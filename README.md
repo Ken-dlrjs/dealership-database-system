@@ -20,7 +20,7 @@ MySQL과 Java Swing으로 만든 수입차 판매회사(포르쉐코리아) 관�
 
 ## 실행 화면
 
-| 로그인 | 관리자 메인 | 판매 등록 |
+| 로그인 | 관리자 메인 | 세일즈맨 메인 |
 |---|---|---|
 | ![로그인](docs/screenshots/login.png) | ![관리자](docs/screenshots/admin.png) | ![판매 등록](docs/screenshots/sales_register.png) |
 
